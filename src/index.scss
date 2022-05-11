@@ -1,0 +1,27 @@
+$color-1: #050609;
+$color-2: #3c0000;
+$color-3: #f0f7ee;
+$color-4: #2b7f8b;
+
+$mobile: 576px;
+$tablet: 768px;
+$laptop: 992px;
+$desktop: 1200px;
+
+.body {
+  font-family: "Inter", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+@media screen and (max-width: $desktop) {
+}
+
+@media screen and (max-width: $laptop) {
+}
+
+@media screen and (max-width: $tablet) {
+}
+
+@media screen and (max-width: $mobile) {
+}
