@@ -1,5 +1,4 @@
 import { Switch } from "@mui/material";
-import { toBePartiallyChecked } from "@testing-library/jest-dom/dist/matchers";
 import React, { useState } from "react";
 import "./MainSection.css";
 
